@@ -223,7 +223,8 @@ class _TampilanUtamaState extends State<TampilanUtama > {
     "Allah Yang Maha Kekal" ,
     "Allah Yang Maha Pewaris" ,
     "Allah Yang Maha Pandai" ,
-    "Allah Yang Maha Sabar"
+    "Allah Yang Maha Sabar",
+    "Tes"
   ];
 
   @override
